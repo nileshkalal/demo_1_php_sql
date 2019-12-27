@@ -1,6 +1,6 @@
 <?php
 
 
-Welcome Nilesh
+echo "Welcome Nilesh";
 
 ?>
